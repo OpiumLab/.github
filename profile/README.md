@@ -21,7 +21,7 @@
 </p>
 
 <br>
-<img align="center" width="95%" src="https://i.giphy.com/media/S4tAejXatVQwJhwZA1/giphy.gif" alt="Coding gif" style="pointer-events: none;" />
+<img align="center" width="95%" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWlqa3RuMDhmOGdiNnoxcmp1MmdvNnh5MGQ0dHB5bnNneHd4bzduayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.webp" alt="Coding gif" style="pointer-events: none;" />
 <br>
 
 ---
