@@ -30,7 +30,6 @@
 ## 🌟 About Us
 
 <p>
-  ØpiùmLab is a collaborative space where we explore and share knowledge about programming languages and cutting-edge technologies.  
   - 🔍 &ensp;We aim to demystify learning for tech enthusiasts of all levels.</br>
   - 💡 &ensp;Our focus is on continuous learning, building, and sharing.</br>
   - 🤝 &ensp;Join us to collaborate and grow together!
