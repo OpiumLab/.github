@@ -1,6 +1,6 @@
 <!-- Intro -->
 <h3 align="center">
-  <samp>&gt; Welcome to <b>ØpiùmLab</b> 🌟</samp>
+  <samp>&gt; Welcome to <b>ØpiùmLab</b> 🌀</samp>
 </h3>
 
 <p align="center">
