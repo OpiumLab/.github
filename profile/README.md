@@ -32,7 +32,7 @@
 <p>
   - 🔍 &ensp;We aim to demystify learning for tech enthusiasts of all levels.</br>
   - 💡 &ensp;Our focus is on continuous learning, building, and sharing.</br>
-  - 👨‍👨‍👦‍👦 &ensp;Click <a>here</a> to have a view of our team !</br>
+  - 👨‍👨‍👦‍👦 &ensp;Click <a href="https://github.com/OpiumLab/_team-members">here</a> to have a view of our team !</br>
   - 🤝 &ensp;Join us to collaborate and grow together!
 </p>
 
