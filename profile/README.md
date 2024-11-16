@@ -41,7 +41,7 @@
 <!-- Featured Projects -->
 ## 💻 Featured Projects
 
-<p>🚧Currently working on New features !🚧</p>
+<p>🚧Currently working on new features !🚧</p>
 
 <!--| Project Name                                    | Description                       | Status    |
 |------------------------------------------------|-----------------------------------|-----------|
