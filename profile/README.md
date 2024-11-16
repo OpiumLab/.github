@@ -41,7 +41,9 @@
 <!-- Featured Projects -->
 ## 💻 Featured Projects
 
-| Project Name                                    | Description                       | Status    |
+<p>🚧Currently working on New features !🚧</p>
+
+<!--| Project Name                                    | Description                       | Status    |
 |------------------------------------------------|-----------------------------------|-----------|
 | [Project 1](https://github.com/)               | A tool to learn Python interactively | ✅ Complete |
 | [Project 2](https://github.com/)               | Introduction to web development   | 🚧 In Progress |
